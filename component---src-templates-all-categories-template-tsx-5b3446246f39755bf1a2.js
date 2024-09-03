@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksemantic=self.webpackChunksemantic||[]).push([[37],{3149:function(e,t,a){a.r(t);var n=a(758);t.default=()=>n.createElement(n.Fragment,null,"AllCategories")}}]);
+//# sourceMappingURL=component---src-templates-all-categories-template-tsx-5b3446246f39755bf1a2.js.map
