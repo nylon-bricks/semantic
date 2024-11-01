@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksemantic=self.webpackChunksemantic||[]).push([[554],{4696:function(e,a,t){t.r(a);var n=t(758),s=t(6333);a.default=()=>n.createElement(s.A,null,"TagsTemplate")}}]);
+//# sourceMappingURL=component---src-templates-tags-template-tsx-b69decc911da9b6b2c9f.js.map
